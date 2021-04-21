@@ -4,9 +4,8 @@
 	display: inline-block;
 }
 
-
 input {
-    color: white;
+	color: white;
 }
 
 body {
@@ -17,11 +16,10 @@ body {
 		#784ba0 50%,
 		#2b86c5 100%
 	);
-	background: url(bg.jpg);
-    height: 100%;
-    margin: 0;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+	height: 100%;
+	margin: 0;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
 
 h1,
